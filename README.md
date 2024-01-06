@@ -46,15 +46,9 @@ Enhanced Visuals: Achieves an aesthetic appearance using Bootstrap and custom CS
 
 Dynamic Content: Manages dynamic content on the page using jQuery and JavaScript.
 
-This project provides a foundational structure for those looking to create a website for a bookstore. The project can be expanded with further development and customization.
+This project provides a foundational structure for those looking to create a website for a bookstore. 
 
-
-
-
-
-
-
-
+The project can be expanded with further development and customization.
 
 
 TR
